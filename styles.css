@@ -1,0 +1,41 @@
+#head-pic {
+    width: auto;
+    height: 250px;
+}
+
+#mainBody {
+    padding-left: 300px;
+    padding-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+.menu li {
+    font-size: 32px;
+    list-style: none;
+    
+}
+
+a {
+    color:red;
+}
+
+a:visited {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+body {
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
