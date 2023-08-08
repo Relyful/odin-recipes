@@ -1,0 +1,48 @@
+body {
+    background-color: lightgrey;
+}
+
+.container {
+    width: 800px;
+    margin: 5px auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 48px;
+}
+
+.mainPic {
+    width: 600px;
+    height: auto;
+}
+
+.menu {
+    margin-left: 200px;
+    width: 400px;
+}
+
+.picContainer {
+    text-align: center;
+}
+
+.menu li {
+    padding: 0px;
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border: thick solid;
+}
+
+.menu li a {
+    padding: 25px 0 0 0;
+    margin: 0px;
+    display: block;
+    width: 100%;
+    height: 75%;
+}
+
+.menu li a:hover {
+    background-color: red;
+}
